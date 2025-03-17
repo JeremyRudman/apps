@@ -296,7 +296,7 @@ box-icon {
 
 /* Footer */
 .footer {
-  width: 100vw;
+  width: 100%;
   margin: 0 auto;
   text-align: center;
   background-color: black;
@@ -547,7 +547,7 @@ form.application-form .form-errors {
 body {
   font-family: "Ubuntu";
   margin: 0;
-  width: 100vw;
+  width: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
